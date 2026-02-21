@@ -80,15 +80,4 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
 
-*(Add later)*
-
----
-
-## 📈 Future Improvements
-
-- Task editing flow  
-- Dark mode  
-- Toast notifications  
-- Deployment on Vercel + Render
